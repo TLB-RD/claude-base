@@ -2,7 +2,7 @@ name: Update TGV Paper Report
 on:
   # 테스트용: 한국시간 오후 3시 (UTC 06:00)
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "42 6 * * *"
   workflow_dispatch:
 permissions:
   contents: write
