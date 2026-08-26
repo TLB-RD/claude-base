@@ -1,0 +1,28 @@
+# 논문 리포트 - "through glass via"
+
+생성일: 2026-08-26
+
+## 1. Cu Conductive Paste as Via Filling Materials for Through Silicon Via (TSV) and Through Glass Via (TGV)
+- 저자: 저자 정보 없음
+- 게재: SMTA International (2021-11)
+- 링크: https://doi.org/10.37665/smosbqj99341
+
+## 2. Glass Package and Through Glass Via (TGV) for MEMS
+- 저자: Aric Shorey
+- 게재: IMAPSource Proceedings (2023-11-30)
+- 링크: https://doi.org/10.4071/001c.90732
+
+## 3. 제목 없음
+- 저자: 저자 정보 없음
+- 게재: 출처 미상 (날짜 정보 없음)
+- 링크: https://doi.org/10.1117/12.3051287.343b7772-1c70-ef11-a9a2-005056914f1c
+
+## 4. Surveying the Looking Glass Life
+- 저자: 저자 정보 없음
+- 게재: Exploring Screen Culture Via Apple’s Mobile Devices (2017)
+- 링크: https://doi.org/10.5040/9781978745186.ch-001
+
+## 5. Advanced Ti+Cu Seed Sputter Technologies for Glass Substrates with Through Glass Via and Through Cavities Glass as well as Low-K Polymer Laminated Glass Substrates
+- 저자: Roland Rettenmeier, Ralph Zoberbier, Patrick Carazzetti 외
+- 게재: 2022 IEEE 24th Electronics Packaging Technology Conference (EPTC) (2022-12-7)
+- 링크: https://doi.org/10.1109/eptc56328.2022.10013289
