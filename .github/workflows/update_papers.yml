@@ -1,6 +1,6 @@
 name: Update TGV Paper Report
 on:
-  # 테스트용: 한국시간 오후 3시 (UTC 06:00)
+  # 매주 월요일 한국시간 09:00 (UTC 월요일 00:00)
   schedule:
     - cron: "0 0 * * 1"
   workflow_dispatch:
