@@ -1,6 +1,6 @@
 # 논문 리포트 - "through glass via"
 
-생성일: 2026-10-12
+생성일: 2026-10-19
 
 ## 1. Cu Conductive Paste as Via Filling Materials for Through Silicon Via (TSV) and Through Glass Via (TGV)
 - 저자: 저자 정보 없음
